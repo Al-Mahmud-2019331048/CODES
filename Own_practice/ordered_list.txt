@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>ordered list</title>
+	</head>
+	<body>
+		<h3>This is a list:</h3>
+		<ol>
+		<li>Facebook</li>
+		<li>Whatsapp</li>
+		<li>Twitter</li>
+		<li>Google</li>
+		<li>Linkdin</li>
+	</body>
+</html>

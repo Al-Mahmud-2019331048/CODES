@@ -1,0 +1,19 @@
+//pakage string
+
+
+//we change the buffer string
+public class StringBuffer{
+	public static void main(String[] args){
+		StringBuffer ss[]=new StringBuffer("Abdulla Al Mahmud");
+		System.out.println(ss);
+		
+		//adding other datatypes(int/float) in string
+		ss.append(48);
+		System.out.println(ss);
+		ss.append(34.56);
+		System.out.println(ss);
+		
+		
+	}
+
+}
