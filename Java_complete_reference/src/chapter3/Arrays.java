@@ -18,10 +18,10 @@ public class Arrays {
 				x[i][j]=i+j;
 		}
 		
-		//printing
-		for(int i=0;i<4;i++) {
-			for(int j=0;j<5;j++)
-				System.out.print(x[i][j]+" ");
+		//printing by for each loop
+		for(int a[] : x) {
+			for(int i : a)
+				System.out.print(i+" ");
 			System.out.println();
 		}
 		System.out.println();

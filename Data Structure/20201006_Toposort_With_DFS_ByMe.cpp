@@ -12,7 +12,7 @@ void dfs(int source)
     for(int i=0;i<graph[source].size();i++){
         int next=graph[source][i];
         if(visited[next]==0)
-            dfs(next);
+            dfs(next);       //recursively called
     }
     //all children explored of source node
     result.push_back(source);

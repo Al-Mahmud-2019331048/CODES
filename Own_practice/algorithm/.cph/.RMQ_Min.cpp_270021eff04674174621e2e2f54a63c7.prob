@@ -1,0 +1,1 @@
+{"name":"Local: RMQ_Min","url":"f:\\CODES\\Own_practice\\algorithm\\RMQ_Min.cpp","tests":[{"id":1656738110228,"input":"8\n9 7 2 6 1 5 6 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODES\\Own_practice\\algorithm\\RMQ_Min.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BFS","url":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\BFS.cpp","tests":[{"id":1658292053050,"input":"7 9\n1 2\n1 3\n1 7\n2 3\n3 7\n2 4\n4 5\n3 6\n5 6\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\BFS.cpp","group":"local","local":true}

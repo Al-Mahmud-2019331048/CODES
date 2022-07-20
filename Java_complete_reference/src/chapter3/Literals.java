@@ -1,5 +1,7 @@
 package chapter3;
 
+import static java.lang.Integer.toBinaryString;
+
 public class Literals {
 	public static void main(String args[]) {
 		int x=023; //octal
@@ -33,6 +35,15 @@ public class Literals {
 		
 		String s="I am Mahmud\nI love JAVA";
 		System.out.println(s);
+                
+                int z=-42;
+                System.out.println(z>>>1);
+                System.out.println(2<<31);
+                
+                System.out.println(toBinaryString(-4));
+                System.out.println(toBinaryString(-4>>>1));
+                System.out.println(toBinaryString(-4>>1));
+                
 		
 	}
 }
