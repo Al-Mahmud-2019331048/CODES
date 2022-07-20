@@ -13,9 +13,9 @@ void initLPS(string s)
      aabaabaaa
      010123120
     */
+    lps[0]=0;
     while(i<s.size()){
         // cout<<i<<" "<<s[i]<<" "<<j<<" "<<s[j]<<endl;
-        lps[0]=0;
         if(s[i]==s[j]){
             lps[i]=j+1;
             i++,j++;

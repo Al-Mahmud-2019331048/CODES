@@ -56,7 +56,7 @@ int32_t main()
     powInit();
     int patHash = initHash(pat);
     int txtHash = initHash(text);
-    // cout << txtHash << " " << patHash << endl;
+    cout << txtHash << " " << patHash << endl;
 
     int left, right;
 
