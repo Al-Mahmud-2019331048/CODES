@@ -1,0 +1,1 @@
+{"name":"Local: Max_flow","url":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\Max_flow.cpp","tests":[{"id":1658372623756,"input":"4 5\n0 1 6\n0 2 4\n1 2 10\n1 3 2\n2 3 5\n0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\Max_flow.cpp","group":"local","local":true}
