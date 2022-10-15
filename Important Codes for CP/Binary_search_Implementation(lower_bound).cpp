@@ -39,7 +39,7 @@ int Upper_bound(int a[],int n, int x)
 
 //2,4,5,7,10,9,8,5,3 ->array(increasing+decreasing)
 //1,1,1,1,1, 0,0,0,0
-//max value? Using Binary Search O(ln(n))-2 base log
+//max value? Using Binary Search O(ln(n)) - 2 base log
 
 int Max(int a[],int n)
 {
@@ -85,6 +85,11 @@ int Min(int a[],int n)
 int main()
 {
 	int m,n;
+
+	int a[]={4,5,4,5,7,2,54,24,2,34,2,43,4,2,3,4,43,3,453,3,6,5,3,24};
+	int ans=Lower_bound(a,sizeof(a),10);
+	cout<<ans<<endl;
+
 
 	return 0;
 }

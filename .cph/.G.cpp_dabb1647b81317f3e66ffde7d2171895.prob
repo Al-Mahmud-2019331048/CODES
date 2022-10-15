@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"f:\\CODES\\G.cpp","tests":[{"id":1662303636381,"input":"4\n1\n1\n4\n2 2 2 3\n4\n2 2 2 2\n5\n1000 1 1000 1 1000","output":"YES\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODES\\G.cpp","group":"local","local":true}

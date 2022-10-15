@@ -8,6 +8,8 @@ void swap(char *x,char *y)
     *y=tmp;
 }
 
+// O(n*n!)
+
 void permute(char *s,int l,int r)
 {
     int i;
@@ -16,7 +18,7 @@ void permute(char *s,int l,int r)
     else{
         for(i=l;i<=r;i++){
             swap(s+l,s+i);
-            permute(s,l+1,r);
+            permute(s,l+1,r);   //recursion
             swap(s+l,s+i);
         }
     }
@@ -29,3 +31,5 @@ int main()
     permute(str,0,n-1);
     return 0;
 }
+
+//tech dose

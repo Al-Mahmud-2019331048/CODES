@@ -1,1 +1,0 @@
-{"name":"Local: SCC_kosaraju","url":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\SCC_kosaraju.cpp","tests":[{"id":1658321268539,"input":"7 10\n0 1\n1 2\n2 0\n2 3\n3 4\n4 5\n4 7\n5 6\n6 4\n6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODES\\Own_practice\\Algo_lab\\Graph\\SCC_kosaraju.cpp","group":"local","local":true}

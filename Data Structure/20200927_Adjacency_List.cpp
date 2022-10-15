@@ -20,8 +20,8 @@ void printList(int n)
 int main()
 {
     int n, m, x, y, w;
-    cin >> n >> m;
-    for (int i = 0; i<m; i++)
+    cin >> n;
+    for (int i = 0; i<n-1; i++)
     {
         cin >> x >> y >> w;
         adj[x].push_back(y);
